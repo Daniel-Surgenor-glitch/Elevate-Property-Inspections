@@ -1,0 +1,6 @@
+{
+  "name": "Elevate Property Inspections",
+  "description": "Professional landing page for Elevate Property Inspections with contact details, a sleek navigation bar, and a high-quality drone-eye hero image.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
